@@ -1,11 +1,11 @@
 # Foody Website
 
-## Live Project Link -
+> Live Project Link -
 
 * On GitHub Live - https://anshika1301.github.io/OC-Tanner-Project/ 
 * On Heroku Live - https://foody-website.herokuapp.com/ 
 
-## About The Project
+> About The Project
 
 
 
