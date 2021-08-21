@@ -7,6 +7,6 @@
 
 > About The Project
 
-![Screenshot (13)](https://user-images.githubusercontent.com/67957243/130327193-c99d2589-7759-4ad5-a072-44489a5d11a3.png)
+![https://foody-website.herokuapp.com/](https://user-images.githubusercontent.com/67957243/130327193-c99d2589-7759-4ad5-a072-44489a5d11a3.png)
 
 
