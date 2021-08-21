@@ -32,10 +32,14 @@
 * Microsoft Edge
 
 > ### Future Work
-* #### Customize orders – Allow customers to customize food orders.
-* #### Enhances User Interface by adding more user interactive features. Provide Deals and Promotional Offer details to home page. Provide Recipes of the Week/Day to Home Page.
-* #### Delivery Options – Add delivery option
-* #### Order Status – Show only Active orders to Restaurant Employees.
-* #### Order Ready Notification – Send an Order Ready notification to the customer.
+* #### Customize orders – 
+Allow customers to customize food orders.
+* Enhances User Interface by adding more user interactive features. Provide Deals and Promotional Offer details to home page. Provide Recipes of the Week/Day to Home Page.
+* #### Delivery Options – 
+Add delivery option
+* #### Order Status – 
+Show only Active orders to Restaurant Employees.
+* #### Order Ready Notification – 
+Send an Order Ready notification to the customer.
 
 
