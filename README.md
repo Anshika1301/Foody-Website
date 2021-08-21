@@ -44,4 +44,4 @@
 * Order Status – Show only Active orders to Restaurant Employees.
 * Order Ready Notification – Send an Order Ready notification to the customer.
 
-
+> [Here is the Foody Website Doc File](https://github.com/Anshika1301/OC-Tanner-Project/files/7025948/Foody_Doc_File.docx "Doc File")
